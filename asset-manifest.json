@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fakeproductapi/static/css/main.212388c0.css",
+    "main.js": "/fakeproductapi/static/js/main.c9dcf55b.js",
+    "static/media/signup-page.jpg": "/fakeproductapi/static/media/signup-page.0765ee322dd76a3ff9a9.jpg",
+    "static/media/login-page.jpg": "/fakeproductapi/static/media/login-page.fb9f38b2b44a7eec9812.jpg",
+    "index.html": "/fakeproductapi/index.html",
+    "main.212388c0.css.map": "/fakeproductapi/static/css/main.212388c0.css.map",
+    "main.c9dcf55b.js.map": "/fakeproductapi/static/js/main.c9dcf55b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212388c0.css",
+    "static/js/main.c9dcf55b.js"
+  ]
+}
